@@ -1,9 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
 import PropTypes from 'prop-types';
-import _autoBind from 'auto-bind';
-
-export const autoBind = _autoBind.react;
 
 export const classNames = (...args) => {
 	const ret = new Set();
