@@ -32,9 +32,9 @@ const App = props => (
 
 ## API
 
-### autoBind(self, [options])
+### ~autoBind(self, [options])~
 
-Automatically binds your `React.Component` subclass methods to the instance. See the [`autoBind.react()` docs](https://github.com/sindresorhus/auto-bind#autobindreactself-options).
+~Automatically binds your `React.Component` subclass methods to the instance. See the [`autoBind.react()` docs](https://github.com/sindresorhus/auto-bind#autobindreactself-options).~
 
 ### classNames(…input)
 
